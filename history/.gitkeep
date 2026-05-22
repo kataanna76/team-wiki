@@ -1,4 +1,6 @@
 # Placeholder
-Chronologische Wissens-Snapshots kommen hier als `YYYY-MM.md`.
+Quartalsweise kuratierte Retrospektiven oder Stand-Snapshots aus team-wiki-Content kommen hier als `YYYY-Qn.md` (z.B. `2026-Q2.md`).
 
-Inhalt: monatliche Snapshot-Dokumentation von Architektur-Entscheidungen, Cross-Agent-Patterns, Lessons-Konsolidierungen. NICHT Daily-Logs (das gehoert in agentmemory).
+Inhalt: kuratierte Snapshot-Dokumentation von Architektur-Entscheidungen, Cross-Agent-Patterns, Lessons-Konsolidierungen am Quartals-Ende. NICHT operational-Tagesfaden-Logs (das gehoert in agentmemory, Domain-Trennung HART).
+
+Quartals-Cadence bewusst gewaehlt (statt monatlich) um Cross-Mirror-Risk zu agentmemory zu minimieren — operational-Auto-Capture laeuft taeglich/monatlich in agentmemory, team-wiki-history laeuft quartalsweise mit Kuration-Pflicht.

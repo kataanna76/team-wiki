@@ -45,7 +45,7 @@ team-wiki/
   .gitignore
   agents/<agent>.md               (Agent-spezifische Wissens-Schnipsel)
   cross/<topic>.md                (Cross-Agent-Topics: Workflows, Tool-Cookbooks, Patterns)
-  history/<YYYY-MM>.md            (chronologische Wissens-Snapshots)
+  history/<YYYY-Qn>.md            (quartalsweise kuratierte Retrospektiven oder Stand-Snapshots aus team-wiki-Content, NICHT operational-Tagesfaden-Logs)
 ```
 
 ## Status
