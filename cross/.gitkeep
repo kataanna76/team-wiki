@@ -1,0 +1,4 @@
+# Placeholder
+Cross-Agent-Topics kommen hier: `workflow-<name>.md`, `tool-<name>.md`, `pattern-<name>.md`.
+
+Inhalt: Wissen das mehrere Agents brauchen (Workflows, Tool-Cookbooks, Patterns die nicht agent-spezifisch sind). NICHT individuelle Decisions (das gehoert in agentmemory).

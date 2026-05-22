@@ -1,0 +1,4 @@
+# Placeholder
+Agent-spezifische Wissens-Schnipsel kommen hier als `<agent>.md`. Z.B. `silas.md`, `quinn.md`, `lina.md`.
+
+Inhalt: was der jeweilige Agent als Reference-Material wissen sollte (langlebige Patterns, Tool-Bedienung, Domain-spezifische Konventionen). NICHT Tagesarbeit (das gehoert in agentmemory).
