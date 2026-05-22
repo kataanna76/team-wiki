@@ -9,7 +9,7 @@ Vor Merge-Request muessen alle drei Blocks erfuellt sein. PR-Author bestaetigt d
 ### (i) Sprach-Regeln-Self-Check
 
 - [ ] Echte Umlaute ä/ö/ü/ß (kein ae/oe/ue/ss; Werbetext-CH-Ausnahme "ss" fuer "Strasse" OK)
-- [ ] Keine Em-Dash (U+2014) oder En-Dash (U+2013) — ASCII-Bindestrich / Doppelpunkt / Komma / neuer Satz statt
+- [ ] Keine Em-Dash (U+2014) oder En-Dash (U+2013); Ersatz: ASCII-Bindestrich / Doppelpunkt / Komma / neuer Satz
 - [ ] Gender-Form: kein `:innen`/`:in` in User-facing-Wortlaut (Alternative: Sammelbegriffe / Partizipien / Funktions-Substantive / Du-Form)
 - [ ] Wort "ehrlich" nicht verwendet
 - [ ] Erste-Person bei Selbst-Referenz (ich/mir/mein)

@@ -49,7 +49,7 @@ Vor PR-Merge-Request:
 ### Reviewer-SLA
 
 - **24h voller Review** ab PR-Open: HARD-SLA (gilt unabhaengig von Bridge-Notify).
-- **2h Erst-Antwort** (Pre-ACK auf PR-Open): BEDINGT — nur bei expliziter PR-Author-Bridge-Notify-Pflicht (siehe PR-Workflow-Section "Bridge-Notify-Pflicht"). Ohne Bridge-Notify gilt nur 24h-voller-Review-SLA, 2h-Erst-Antwort entfaellt. Realitaets-Hinweis: Quinn ist Bridge-Trigger-aktiviert (kein GitHub-Webhook-Notify), `gh pr create` ohne Bridge-Send wird nicht in 2h gesehen.
+- **2h Erst-Antwort** (Pre-ACK auf PR-Open): BEDINGT, nur bei expliziter PR-Author-Bridge-Notify-Pflicht (siehe PR-Workflow-Section "Bridge-Notify-Pflicht"). Ohne Bridge-Notify gilt nur 24h-voller-Review-SLA, 2h-Erst-Antwort entfaellt. Realitaets-Hinweis: Quinn ist Bridge-Trigger-aktiviert (kein GitHub-Webhook-Notify), `gh pr create` ohne Bridge-Send wird nicht in 2h gesehen.
 - Quinn-Down 24h+ silent: Mailbox-Modal an Kata + Backup-Reviewer-Pattern domain-spezifisch:
   - Silas fuer Infra-Pages
   - Lina fuer Wortlaut-Pages

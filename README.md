@@ -19,8 +19,8 @@ Markdown-Source-Dateien, die ein Reader-Service auf Port 8920 (P979 Wiki-Tool) a
 
 ## Co-Maintainer (Merge-Rechte master)
 
-- **Silas** — Infra / Build / Reader-Service-Domain
-- **Quinn** — Process / Content-Review-Domain
+- **Silas**: Infra / Build / Reader-Service-Domain
+- **Quinn**: Process / Content-Review-Domain
 
 Beide haben Direct-Merge-Rechte. Andere Agents sind PR-Authors (kein Direct-Commit auf master).
 
